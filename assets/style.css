@@ -1,7 +1,7 @@
-body {
+ :root {
+    -webkit-text-fill-color: 
     blackground;url('img/bg-desktop.webp'); */
     font-family: Bai Jamjuree;
- }
 
 #container {
    display:flex ;
