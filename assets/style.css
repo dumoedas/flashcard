@@ -1,6 +1,10 @@
- :root {
-    -webkit-text-fill-color: 
-    blackground;url('img/bg-desktop.webp'); */
+:root {
+    --text-color: #DBE4EF;
+    --card-front-color: #144480;
+    --card-back-color: #00F4BF;
+
+}
+blackground;url('img/bg-desktop.webp'); */
     font-family: Bai Jamjuree;
 
 #container {
